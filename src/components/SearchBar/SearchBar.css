@@ -1,0 +1,19 @@
+.searchInput-wrapper {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchInput-wrapper > input {
+  border: none;
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  outline-offset: 4px;
+}
+
+#search-icon {
+  color: hsl(225deg 100% 75%);
+}

@@ -1,0 +1,9 @@
+.App {
+  height: 100%;
+}
+
+.search-container {
+  width: 50%;
+  margin: 10rem auto;
+  /* height: 100%; */
+}

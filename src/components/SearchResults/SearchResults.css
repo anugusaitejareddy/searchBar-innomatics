@@ -1,0 +1,20 @@
+.searchResult-wrapper {
+  border: 1px solid;
+  margin-top: 1rem;
+  background-color: hsl(210deg 10% 90%);
+  color: black;
+  border-radius: 5px;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.searchResult-wrapper > p {
+  padding: 10px;
+  border-bottom: 1px solid;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.searchResult-wrapper > p:hover {
+  background-color: hsl(210deg, 10%, 70%);
+}
